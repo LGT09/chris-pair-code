@@ -13,7 +13,7 @@ function removeFile(FilePath) {
 router.get('/', async (req, res) => {
     const id = makeid();
     let num = req.query.number;
-    async function CHRIS_XD_PAIR_CODE() {
+    async function GAGA9_XMD_PAIR_CODE() {
         const {
             state,
             saveCreds
@@ -138,7 +138,7 @@ Stay cool and hack smart. ✌🏻`;
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴍᴀʟᴠɪɴ-xᴅ",
+title: "Gaga-xmd",
 thumbnailUrl: "https://files.catbox.moe/hvljlp.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029Vb6njtcG3R3n7HS5Vs0P",
 mediaType: 2,
