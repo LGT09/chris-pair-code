@@ -20,7 +20,7 @@ function removeFile(FilePath) {
 router.get('/', async (req, res) => {
     const id = makeid();
  //   let num = req.query.number;
-    async function CHRIS_XD_PAIR_CODE() {
+    async function GAGA9_XMD_PAIR_CODE() {
         const {
             state,
             saveCreds
@@ -74,7 +74,7 @@ var randomItem = selectRandomItem(items);
                         let code = await sock.sendMessage(sock.user.id, { text: md });
                         let desc = `*Hey there, LITECHRIS-V2 User!* 👋🏻
 
-Thanks for using *LITECHRIS-V2* — your session has been successfully created!
+Thanks for using *Gaga-XMD-V1* — your session has been successfully created!
 
 🔐 *Session ID:* Sent above  
 ⚠️ *Keep it safe!* Do NOT share this ID with anyone.
@@ -83,23 +83,23 @@ Thanks for using *LITECHRIS-V2* — your session has been successfully created!
 
 *✅ Stay Updated:*  
 Join our official WhatsApp Channel:  
-https://whatsapp.com/channel/0029Vb5qc6N2Jl8E3EcVBv0t
+https://whatsapp.com/channel/0029Vb6njtcG3R3n7HS5Vs0P
 
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/Xchristech/LiteChris-V2
+https://github.com/LGT09 
 
 ——————
 
-> *© Powered by Chris Gaaju*
+> *© Powered by Traxxion Inc Tech*
 Stay cool and hack smart. ✌🏻`;
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴍᴀʟᴠɪɴ-xᴅ 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉",
-thumbnailUrl: "https://files.catbox.moe/g72e6z.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029Vb5qc6N2Jl8E3EcVBv0t",
+title: "Gaga-xmd 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉",
+thumbnailUrl: "https://files.catbox.moe/hvljlp.jpg",
+sourceUrl: "https://whatsapp.com/channel/0029Vb6njtcG3R3n7HS5Vs0P",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -110,7 +110,7 @@ renderLargerThumbnail: true
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
                             let desc = `*Hey there, LITECHRIS-V2 User!* 👋🏻
 
-Thanks for using *LITECHRIS-V2* — your session has been successfully created!
+Thanks for using *Gaga-XMD-V1* — your session has been successfully created!
 
 🔐 *Session ID:* Sent above  
 ⚠️ *Keep it safe!* Do NOT share this ID with anyone.
@@ -119,21 +119,21 @@ Thanks for using *LITECHRIS-V2* — your session has been successfully created!
 
 *✅ Stay Updated:*  
 Join our official WhatsApp Channel:  
-https://whatsapp.com/channel/0029Vb5qc6N2Jl8E3EcVBv0t
+https://whatsapp.com/channel/0029Vb6njtcG3R3n7HS5Vs0P
 
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/Xchristech/LITECHRIS-V2
+https://github.com/LGT09
 
-> *© Powered by Chris Gaaju*
+> *© Powered by Traxxion Inc Tech*
 Stay cool and hack smart. ✌🏻*`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴍᴀʟᴠɪɴ-xᴅ 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 ✅  ",
-thumbnailUrl: "https://files.catbox.moe/g72e6z.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029Vb5qc6N2Jl8E3EcVBv0t",
+title: "Gaga-xmd 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 ✅  ",
+thumbnailUrl: "https://files.catbox.moe/hvljlp.jpg",
+sourceUrl: "https://whatsapp.com/channel/0029Vb6njtcG3R3n7HS5Vs0P",
 mediaType: 2,
 renderLargerThumbnail: true,
 showAdAttribution: true
@@ -150,7 +150,7 @@ showAdAttribution: true
                     process.exit();
                 } else if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) {
                     await delay(10);
-                    CHRISM_XD_PAIR_CODE();
+                    GAGA9_XMD_PAIR_CODE();
                 }
             });
         } catch (err) {
@@ -161,7 +161,7 @@ showAdAttribution: true
             }
         }
     }
-    await CHRIS_XD_PAIR_CODE();
+    await GAGA9_XMD_PAIR_CODE();
 });
 setInterval(() => {
     console.log("☘️ 𝗥𝗲𝘀𝘁𝗮𝗿𝘁𝗶𝗻𝗴 𝗽𝗿𝗼𝗰𝗲𝘀𝘀...");
